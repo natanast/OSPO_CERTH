@@ -1,4 +1,3 @@
-
 project:
   type: website
   output-dir: docs
@@ -12,13 +11,18 @@ website:
         text: Welcome
       
     right: 
+      - text: "🌐 Language"
+        menu:
+          - text: "English"
+            href: index.qmd
+          - text: "Greek"
+            href: index-gr.qmd
       - icon: github
-        href: https://github.com/NatAnastas/immunovisual
+        href: https://github.com/natanast/OSPO_CERTH
         
-
   page-footer: 
     border: true
-    right: "[License](https://github.com/NatAnastas/immunovisual/blob/main/LICENSE)"
+    right: "[License](https://github.com/natanast/OSPO_CERTH/LICENSE)"
 
 editor: source
 
@@ -26,11 +30,9 @@ format:
   html:
     theme: [morph, sass/theme-light.scss]
     fig-format: svg
-    toc: true
-    code-fold: true
-    code-block-border-left: "#5f646a"
+    toc: false
+
 knitr:
- opts_chunk:
-   dev: svg
-   dev.args: { bg: "transparent" }
-    
+  opts_chunk:
+    dev: svg
+    dev.args: { bg: "transparent" }

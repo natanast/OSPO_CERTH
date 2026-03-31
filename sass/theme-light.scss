@@ -223,28 +223,30 @@ $btn-close-color:            $headings-color !default;
 
 
 /*-- scss:defaults --*/
-// You can define Quarto theme variables here
 
 /*-- scss:rules --*/
-.hero-banner {
-  background-image: url('./images/hero-bg.jpg'); /* Adjust path to your image */
+
+.custom-hero {
+  /* Set the background image */
+  background-image: url('./images/hero-bg.jpg'); /* Ensure this path is correct */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding: 120px 40px;      /* Adjust padding to make the banner taller/shorter */
-  margin-top: -1em;         /* Pulls the banner flush with the navbar */
-  color: white;             /* Ensures your text is readable against the image */
-  text-align: center;       /* Centers the title */
-  border-radius: 0 0 10px 10px; /* Optional: smooth bottom corners */
+  
+  /* Add padding to make the banner tall enough */
+  padding: 6em 2em; 
+  
+  /* Pull the banner up so it sits flush against the navigation bar */
+  margin-top: -1em; 
+  margin-bottom: 2em;
+  
+  /* Center the text and make it white for readability */
+  text-align: center;
 }
 
-/* Optional: Add a subtle dark overlay so text is easier to read */
-.hero-banner {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./images/hero-bg.jpg');
-  background-size: cover;
-  background-position: center;
+.custom-hero h1 {
+  color: white; 
+  /* Optional: Add a subtle text shadow so it pops against the image */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+  margin: 0;
 }
-
-
-
-

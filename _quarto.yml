@@ -20,7 +20,7 @@ website:
         
   page-footer: 
     border: true
-    right: "[License](https://github.com/natanast/OSPO_CERTH/LICENSE)"
+    left: "[License](https://github.com/natanast/OSPO_CERTH/LICENSE)"
 
 editor: source
 

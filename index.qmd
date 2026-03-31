@@ -19,12 +19,22 @@ An OSPO operates as a central interface for open-source-related activities throu
 
 The Open Source Programs Office (OSPO) at CERTH serves as an entry point to CERTH's open-source expertise. The CERTH OSPO is an open and inclusive service, operating collaboratively with all Institutes, and serving externally as a visible interface for potential partners and the interested public. This encompasses events, communication, support, and training throughout the year.
 
-# Internally, the CERTH OSPO has the following roles:
+**Internally**, the CERTH OSPO has the following roles:
 
 -   To advise, guide, and train CERTH staff regarding best practices, tools, licensing, developments, etc., for Open Source projects.
+
 -   To provide recommendations for the release of software and hardware developed at CERTH as open-source projects.
+
 -   To provide guidelines and best practices concerning the technical aspects of sharing code and designs (e.g., hosting locations, appropriate services to utilize, proper use of CERTH infrastructures, general Open Source tools such as license compliance checks, and testing configuration methodologies).
+
 -   To facilitate and enhance the dissemination of Open Source.
+
 -   To advise CERTH Management on Open Source matters that impact the organization.
 
-Externally, the CERTH OSPO has the following roles: - To provide a public directory of CERTH's Open Source portfolio that is easily accessible via the CERTH OSPO website. - To guide interested external parties toward opportunities, projects, and experts at CERTH through the public directory, events, external communications, the website, etc. - To support external inquiries directed to CERTH management that pertain to Open Source.
+**Externally**, the CERTH OSPO has the following roles:
+
+-   To provide a public directory of CERTH's Open Source portfolio that is easily accessible via the CERTH OSPO website.
+
+-   To guide interested external parties toward opportunities, projects, and experts at CERTH through the public directory, events, external communications, the website, etc.
+
+-   To support external inquiries directed to CERTH management that pertain to Open Source.

@@ -1,0 +1,36 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Open Source Program Office | CERTH"
+  navbar:
+    # background: "#cfe1ed"
+    left:
+      - href: index.qmd
+        text: Welcome
+      
+    right: 
+      - icon: github
+        href: https://github.com/NatAnastas/immunovisual
+        
+
+  page-footer: 
+    border: true
+    right: "[License](https://github.com/NatAnastas/immunovisual/blob/main/LICENSE)"
+
+editor: source
+
+format:
+  html:
+    theme: [morph, sass/theme-light.scss]
+    fig-format: svg
+    toc: true
+    code-fold: true
+    code-block-border-left: "#5f646a"
+knitr:
+ opts_chunk:
+   dev: svg
+   dev.args: { bg: "transparent" }
+    

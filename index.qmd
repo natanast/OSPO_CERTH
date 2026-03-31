@@ -1,0 +1,13 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+:::{.hero-banner}
+
+:::
+
+# Open Source Program Office \| CERTH
+
+Open source is inextricably linked to the development of modern technologies and constitutes the foundation of the vast majority of codebases across all industrial sectors and technological domains, such as Artificial Intelligence (AI), Big Data Management, Cloud Computing, and Cybersecurity. Almost all organizations depend on technology created by the open-source community. Characteristically, the Linux operating system and its various distributions power all of the world's supercomputers (based on the top-500 list), while nearly all advancements in the field of Artificial Intelligence rely on popular open-source software platforms such as PyTorch, TensorFlow, and Jupyter. Concurrently, the increasing acquisition and technical support costs of commercial software solutions and services, combined with the criticality of digital sovereignty, render open-source technologies a fundamental component of independent research and development in the contemporary era.

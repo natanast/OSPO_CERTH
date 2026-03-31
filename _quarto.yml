@@ -19,7 +19,7 @@ website:
         
   page-footer: 
     border: true
-    left: "[License](https://github.com/BiodataAnalysisGroup/OSPO_CERTH/LICENSE)"
+    left: "[License](https://github.com/BiodataAnalysisGroup/OSPO_CERTH/blob/main/LICENSE)"
 
 editor: source
 
